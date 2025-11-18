@@ -8,6 +8,8 @@ This repository hosts some GTFS feeds that are not hosted on a public website.
 
 #### Delhi
 
+Please note that a cleaned version of the below dataset is available from [@ethanc8/delhi-gtfs](https://github.com/ethanc8/delhi-gtfs).
+
 * OTD bus data (OTD/GTFS.zip)
   * Includes DIMTS and DTC buses
   * Source: https://otd.delhi.gov.in/data/static/
