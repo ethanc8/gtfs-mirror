@@ -23,6 +23,14 @@ Please note that a cleaned version of the below dataset is available from [@etha
 #### Telangana
 
 * Hyderabad Metro (HMRL)
-  * Source: https://data.telangana.gov.in/dataset/gtfs-hmrl-hyderabad
-  * A link to the dataset must be requested from a Google Form at the above URL periodically
+  * Request form: https://docs.google.com/forms/d/e/1FAIpQLSdyIFIkypMuNdJ4xXMMXsJ_3lPLLZ14vfDaQh-rsTg8054AeQ/viewform
+  * Terms: https://hmrl.co.in/open-data/
+  * Published: 2025-11-04
   * Expiration date: 2030-01-01
+  * Must be requested periodically
+* Telangana State Road Transport Corporation (TGSRTC) (buses)
+  * Request form: https://docs.google.com/forms/d/e/1FAIpQLScwhvSJvhDiFUQfe0gngnxhcabpE95n01ANDa6SM3jE65R6ow/viewform
+  * Terms: https://docs.google.com/forms/d/e/1FAIpQLSfiN6RbAWpdErBNhfHZR6G5AonRtdn93Tp78XLmtQhrrKRozw/viewform
+  * Published: 2025-10-09
+  * Expiration date: 2030-01-01
+  * Must be requested periodically
