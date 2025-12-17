@@ -34,3 +34,12 @@ Please note that a cleaned version of the below dataset is available from [@etha
   * Published: 2025-10-09
   * Expiration date: 2030-01-01
   * Must be requested periodically
+
+### North America
+
+#### Kankakee
+
+* River Valley Metro
+  * Was requested by FOIA request
+  * Published: 2024-01-01
+  * Apparently is published every year
